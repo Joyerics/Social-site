@@ -8,6 +8,10 @@ Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
+## live url
+
+[Social App](https://joyerics.github.io/Social-site/)
+
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
 ## The challenge
